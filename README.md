@@ -3,7 +3,7 @@
 The assignment has two parts:
 
 ## 0. Choose a visualization to critique: 
-1. [GA election results](../ga-election-results.png)
+1. [GA election results](./vis/ga-election-results.png)
 2. 
 
 ## 1. Present a short critique of the given visualization: 
