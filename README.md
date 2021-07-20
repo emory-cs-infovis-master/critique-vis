@@ -5,7 +5,7 @@ The assignment has two parts:
 ## 0. Choose a visualization to critique: 
 1. ![GA election results](./vis/ga-election-result.png)
 2. ![DOW reaction to events](./vis/dow.png)
-3. ![Weather](./vis/weather.jpeg)
+3. ![Weather](./vis/weather.jpg)
 
 ## 1. Present a short critique of the visualization: 
 Consider the following questions to help guide your critique: 
