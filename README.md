@@ -4,9 +4,10 @@ The assignment has two parts:
 
 ## 0. Choose a visualization to critique: 
 1. ![GA election results](./vis/ga-election-result.png)
-2. 
+2. ![DOW reaction to events](./vis/dow.png)
+3. ![Weather](./vis/weather.jpeg)
 
-## 1. Present a short critique of the given visualization: 
+## 1. Present a short critique of the visualization: 
 Consider the following questions to help guide your critique: 
 - Does the visual representation support the goal of the visualization? 
 - Are the choices of visual encoding appropriate? 
@@ -22,5 +23,4 @@ Consider the things that the visualization could have done better from Part 1. R
 Your document should be in PDF format and with your submission for part 1 and part 2 on pages 1 and 2, respectively. Use Times Roman 11 point type with normal margins, 1.5 line spacing. 
 
 ### Acknowledgements: 
-Examples were obtained from the following sources: 
-- GA Election Results: [NBC News](https://www.nbcnews.com/politics/2020-elections/georgia-president-results)
+Examples were obtained from [viz.wtf](https://viz.wtf) and [Alberto Cairo's blog](http://www.thefunctionalart.com ).
