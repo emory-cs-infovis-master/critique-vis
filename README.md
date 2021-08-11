@@ -24,16 +24,16 @@ Your document should be in PDF format and with your submission for part 1 and pa
 
 ## Grading:
 [50%] Part 1
-1. [10%] Discussion of the effectiveness of the execution given goal of the visualization
-1. [15%] Discussion on specific visual encodings used
-1. [15%] Discussion of strengths and weakness of the design
-1. [10%] Discussion of potential mis-reading of the visualization
+- [10%] Discussion of the effectiveness of the execution given goal of the visualization
+- [15%] Discussion on specific visual encodings used
+- [15%] Discussion of strengths and weakness of the design
+- [10%] Discussion of potential mis-reading of the visualization
 
 [40%] Part 2
-1. [20%] Appropriate choice of visual encodings
-1. [20%] Execution
+- [20%] Appropriate choice of visual encodings
+- [20%] Execution
 
-- [10%] Formatting
+[10%] Formatting
 
 ### Acknowledgements: 
 Examples were obtained from [viz.wtf](https://viz.wtf) and [Alberto Cairo's blog](http://www.thefunctionalart.com ).
