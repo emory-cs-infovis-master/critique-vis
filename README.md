@@ -1,4 +1,4 @@
-# Homework 4: Critique a Visualization 
+# HW 6: Critique a Visualization 
 
 The assignment has two parts:
 
