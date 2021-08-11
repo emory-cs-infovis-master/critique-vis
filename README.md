@@ -23,13 +23,13 @@ Consider the things that the visualization could have done better from Part 1. R
 Your document should be in PDF format and with your submission for part 1 and part 2 on pages 1 and 2, respectively. Use Times Roman 11 point type with normal margins, 1.5 line spacing. 
 
 ## Grading:
-- [50%] Part 1
+[50%] Part 1
 1. [10%] Discussion of the effectiveness of the execution given goal of the visualization
 1. [15%] Discussion on specific visual encodings used
 1. [15%] Discussion of strengths and weakness of the design
 1. [10%] Discussion of potential mis-reading of the visualization
 
-- [40%] Part 2
+[40%] Part 2
 1. [20%] Appropriate choice of visual encodings
 1. [20%] Execution
 
