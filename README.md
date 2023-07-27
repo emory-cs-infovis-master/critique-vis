@@ -1,4 +1,4 @@
-# HW 7: Critique a Visualization 
+# HW: Critique a Visualization 
 
 The assignment has two parts:
 
